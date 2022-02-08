@@ -1,7 +1,2 @@
-echo "# projet_tas_de_sable" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SebaGrand/projet_tas_de_sable.git
-git push -u origin main
+Timothé:
+"C'est bon j'ai re fait un clone du projet tds c'est bon ducoup"
