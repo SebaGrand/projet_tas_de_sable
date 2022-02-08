@@ -1,1 +1,0 @@
-"Y'a rien c'est normal"
